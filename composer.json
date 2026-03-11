@@ -19,7 +19,7 @@
         "php": "^8.4"
     },
     "require-dev": {
-        "rector/rector": "^2.0"
+        "rector/rector": "^2.3"
     },
     "autoload": {
         "psr-4": {
